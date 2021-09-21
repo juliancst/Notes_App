@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Un titulo",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "gohan",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "goku",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "vegetta",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "trunks",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "gotens",
+        "estado": "pendiente"
+    }
+]
